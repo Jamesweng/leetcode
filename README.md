@@ -2,7 +2,7 @@
 leetcode solutions in C++  
 微信公众号：曲奇泡芙 （互联网&车联网技术）  
 
-solutions for problems(0001~0100)  
+solutions for problems(0001~0200)  
 ./0001-two-sum.cpp  
 ./0002-add-two-numbers.cpp  
 ./0003-longest-substring-without-repeating-characters.cpp  
@@ -153,3 +153,45 @@ solutions for problems(0001~0100)
 ./0148-sort-list.cpp  
 ./0149-max-points-on-a-line.cpp  
 ./0150-evaluate-reverse-polish-notation.cpp  
+./0151-reverse-words-in-a-string.cpp
+./0152-maximum-product-subarray.cpp
+./0153-find-minimum-in-rotated-sorted-array.cpp
+./0154-find-minimum-in-rotated-sorted-array-ii.cpp
+./0155-min-stack.cpp
+./0160-intersection-of-two-linked-lists.cpp
+./0162-find-peak-element.cpp
+./0164-maximum-gap.cpp
+./0165-compare-version-numbers.cpp
+./0166-fraction-to-recurring-decimal.cpp
+./0167-two-sum-ii-input-array-is-sorted.cpp
+./0168-excel-sheet-column-title.cpp
+./0169-majority-element.cpp
+./0171-excel-sheet-column-number.cpp
+./0172-factorial-trailing-zeroes.cpp
+./0173-binary-search-tree-iterator.cpp
+./0174-dungeon-game.cpp
+./0175-combine-two-tables.sql
+./0176-second-highest-salary.sql
+./0177-nth-highest-salary.sql
+./0178-rank-scores.sql
+./0179-largest-number.cpp
+./0180-consecutive-numbers.sql
+./0181-employees-earning-more-than-their-managers.sql
+./0182-duplicate-emails.sql
+./0183-customers-who-never-order.sql
+./0184-department-highest-salary.sql
+./0185-department-top-three-salaries.sql
+./0187-repeated-dna-sequences.cpp
+./0188-best-time-to-buy-and-sell-stock-iv.cpp
+./0189-rotate-array.cpp
+./0190-reverse-bits.cpp
+./0191-number-of-1-bits.cpp
+./0192-word-frequency.sh
+./0193-valid-phone-numbers.sh
+./0194-transpose-file.sh
+./0195-tenth-line.sh
+./0196-delete-duplicate-emails.sql
+./0197-rising-temperature.sql
+./0198-house-robber.cpp
+./0199-binary-tree-right-side-view.cpp
+./0200-number-of-islands.cpp
